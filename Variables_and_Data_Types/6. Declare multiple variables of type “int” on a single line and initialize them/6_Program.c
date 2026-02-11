@@ -1,0 +1,13 @@
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+    int a=10,b=20,c=30;
+
+    printf("a = %d\n", a);
+    printf("b = %d\n", b);
+    printf("c = %d\n", c);
+
+    getch();
+
+}
